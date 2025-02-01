@@ -1,0 +1,24 @@
+body {
+    font-size: 1.1rem;
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#green {
+    background-color: green;
+}
+#red {
+    background-color: red;
+}
+#blue {
+    background-color: blue;
+}
+#random {
+    background-image: linear-gradient(250deg, red, blue, green, orange, white, purple);
+}
+button {
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    margin: 5px;
+}
